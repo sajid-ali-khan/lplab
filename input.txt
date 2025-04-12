@@ -1,4 +1,0 @@
-S->ABC|ef
-A->ab|#
-B->c|#
-C->g
